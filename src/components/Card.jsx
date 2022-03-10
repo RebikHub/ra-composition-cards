@@ -1,12 +1,12 @@
 import React from 'react'
-import CardBody from './CardBody'
-import CardImage from './CardImage'
 
-export default function Card() {
+export default function Card(props) {
   return (
     <div className="card">
-      <CardImage/>
-      <CardBody/>
+      {props.image}
+      <div className="card-body">
+        {props.children}
+      </div>
     </div>
   )
 }
