@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ka4sg9vitt7yjayh/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-composition-cards/branch/master)
 
 [Карточки](https://rebikhub.github.io/ra-composition-cards/)
 
