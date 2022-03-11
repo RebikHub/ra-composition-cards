@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-composition-cards/static/css/main.fdf62a05.css",
+    "main.js": "/ra-composition-cards/static/js/main.588842d0.js",
+    "index.html": "/ra-composition-cards/index.html",
+    "main.fdf62a05.css.map": "/ra-composition-cards/static/css/main.fdf62a05.css.map",
+    "main.588842d0.js.map": "/ra-composition-cards/static/js/main.588842d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdf62a05.css",
+    "static/js/main.588842d0.js"
+  ]
+}
